@@ -1,0 +1,13 @@
+[
+    {
+        "address": "one10q7eaf8d8epvksja3fp3zrrq6wfqdg20a76y2p",
+        "decimals": 8,
+        "totalSupply": "1000000",
+        "name": "Wrapped XRC",
+        "symbol": "WXRC",
+        "website": "https://xrhodium.org",
+        "description": {
+            "en": "WXRC is wrapped of native XRC coin with 1:1"
+        }
+    }
+]
